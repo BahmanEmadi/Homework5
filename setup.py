@@ -6,5 +6,5 @@ setup(name="snowflake",
       author="DSSS",
       author_email="bahman.emadi@fau.de",
       packages=find_packages(),
-      install_requires=["numpy", "turtles", "random"]
+      install_requires=["numpy", "turtles"]  # , "random"]
       )
